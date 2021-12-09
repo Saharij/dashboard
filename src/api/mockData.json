@@ -1,0 +1,87 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "title": "Alexander's test course 2 2",
+      "status": {
+        "inProgress": [
+          {
+            "id": 1,
+            "module": "New Module",
+            "completed": false
+          },
+          {
+            "id": 2,
+            "module": "New Module",
+            "completed": false
+          },
+          {
+            "id": 3,
+            "module": "New Module",
+            "completed": false
+          }
+        ],
+        "submitted": [
+          {
+            "id": 1,
+            "module": "New module is ready",
+            "completed": false
+          },
+          {
+            "id": 2,
+            "module": "New module will be ready tomorrow",
+            "completed": false
+          }
+        ],
+        "readyToRelease": []
+      }
+    },
+    {
+      "id": 2,
+      "title": "Oleg's test course 43",
+      "status": {
+        "inProgress": [
+          {
+            "id": 1,
+            "module": "New Module",
+            "completed": false
+          },
+          {
+            "id": 2,
+            "module": "New Module",
+            "completed": false
+          },
+          {
+            "id": 3,
+            "module": "New Module",
+            "completed": false
+          }
+        ],
+        "submitted": [
+          {
+            "id": 1,
+            "module": "New module is ready",
+            "completed": false
+          },
+          {
+            "id": 2,
+            "module": "New module will be ready tomorrow",
+            "completed": false
+          }
+        ],
+        "readyToRelease": [
+          {
+            "id": 1,
+            "module": "New module is ready to release",
+            "completed": false
+          },
+          {
+            "id": 2,
+            "module": "New module will be ready to release tomorrow",
+            "completed": false
+          }
+        ]
+      }
+    }
+  ]
+}
